@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[98],{744:function(n,t,e){"use strict";e.r(t);var o={components:{Inventory:e(511).default},layout:"accounts"},c=e(6),component=Object(c.a)(o,(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("Inventory")],1)}),[],!1,null,"2d94ed7a",null);t.default=component.exports}}]);
