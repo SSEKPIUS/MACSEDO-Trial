@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[99],{745:function(n,t,e){"use strict";e.r(t);var o={components:{Inventorylogs:e(530).default},layout:"accounts"},l=e(6),component=Object(l.a)(o,(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("Inventorylogs")],1)}),[],!1,null,null,null);t.default=component.exports}}]);
