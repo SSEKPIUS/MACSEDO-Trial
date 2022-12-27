@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[126],{777:function(n,e,r){"use strict";r.r(e);var t={created:function(){this.$router.push("/supervisor/menu-bar")}},o=r(6),component=Object(o.a)(t,undefined,undefined,!1,null,null,null);e.default=component.exports}}]);
